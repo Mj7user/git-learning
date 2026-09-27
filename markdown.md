@@ -9,4 +9,5 @@ I'm learning Git and version control to track my work.
 - Push my work to GitHub
 
 ## What I learnt today
--learn to make a file to commit
+-learn to make a file to commit 
+-make changes in the same line in two different branches to occur merge conflict
